@@ -1,0 +1,9 @@
+.card__studentDetails {
+  display: flex;
+  flex-direction: column-reverse;
+  height: 100px;
+  width: 200px;
+  background-color: bisque;
+  margin: 20px;
+  padding: 5px;
+}
